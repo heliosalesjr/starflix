@@ -6,7 +6,7 @@ import Inicio from '../src/pages/Inicio'
 function App() {
   return (
     <>
-      <Inicio />
+      <h1>Nao funciono? </h1>
     </>
   )
 }

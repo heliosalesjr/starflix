@@ -1,11 +1,11 @@
 import React from 'react'
 import './Inicio.module.css'
+import Header from '../../components/Header'
 
 function Inicio() {
   return (
     <>
-        <h1>Olah monah!</h1>
-        <button>Me clickah!</button>
+        <Header />
     </>
     
   )
