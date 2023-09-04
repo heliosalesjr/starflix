@@ -2,7 +2,7 @@ import styles from "./Banner.module.css"
 import bannerHome from "../../assets/home.png"
 
 
-function Banner( {imagem}) {
+function Banner() {
   return (
     <>
     
