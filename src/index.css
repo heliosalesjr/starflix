@@ -8,10 +8,10 @@
   --white: #FFF;
   --black: #000000;
   --grey: #E2E2E2;
-
+  --pink: #d400c3;
   
 }
 
 body {
-  background-color: var(--grey);
+  background-color: var(--white);
 }
